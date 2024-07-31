@@ -70,6 +70,7 @@
 #include "lasreadpoint.hpp"
 #include "lasquadtree.hpp"
 #include "lasindex.hpp"
+#include <cstdint>
 #include "lasmessage.hpp"
 #undef max
 
